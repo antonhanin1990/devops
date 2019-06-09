@@ -24,7 +24,9 @@
 </div>
 
 <br><br><br>
+
 <%="Please be advised: The following Table was created for the site monitorng"%>
+
 <br><br><br>
 
 <table id="data-leads-table" class="table">
