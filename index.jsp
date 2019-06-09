@@ -22,6 +22,9 @@
 <br><br>
 <a href="http://newtours.demoaut.com">NewTours</a>
 </div>
+<br><br>
+<a href="http://advantageonlineshopping.com/#/">OnlineShopping</a>
+</div>
 
 <br><br><br>
 
